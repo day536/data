@@ -1,194 +1,221 @@
-Player,Pos
-Aaron Falzon,F
-Aaron Henry,F
-Aaron Jordan,G
-Aaron Wheeler,F
-Aaron Wiggins,G
-Adonis De La Rosa,C
-Adrien Nunez,G
-Aj Turner,F
-Alan Griffin,G
-Aleem Ford,F
-Aljami Durham,G
-Amir Coffey,G
-Amir Harris,G
-Andre Wesson,F
-Andres Feliz,G
-Andrew Terrell,G
-Anthony Cowan,G
-Anthony Gaines,G
-Austin Ash,G
-Austin Davis,F
-Ayo Dosunmu,G
-Barret Benson,C
-Brad Davison,G
-Braden Burke,F
-Brady Heiman,F
-Brady Rudrud,G
-Brandon Johns,F
-Brevin Pritzl,G
-Brock Stull,G
-Brock Washington,G
-Bruno Fernando,F
-Caleb Mcconnell,G
-Carsen Edwards,G
-Cassius Winston,G
-Charles Matthews,G
-Charles Thomas,F
-Charlie Hall,F
-Cj Baird,F
-Cj Jackson,G
-Clifton Moore,F
-Colin Castleton,F
-Conner George,G
-Connor Mccaffery,G
-Cordell Pemsl,F
-Damezi Anderson,F
-Damonte Williams,G
-Daniel Oturu,C
-Daniil Kasatkin,G
-Danny Hummer,G
-Darryl Morsell,G
-David Dejulius,G
-Dererk Pardon,C
-Deron Davis,F
-Devonte Green,G
-Dis Zemgulis,F
-Dmitrik Trice,G
-Drew Cayce,G
-Duane Washington,G
-Dupree Mcbrayer,G
-Eli Brooks,G
-Eric Ayala,G
-Eric Curry,F
-Eric Hunter,G
-Ethan Happ,F
-Eugene Omoruyi,F
-Evan Boudreaux,F
-Evan Fitzner,F
-Foster Loyer,G
-Gabe Brown,F
-Gabe Kalscheur,G
-Geo Baker,G
-Giorgi Bezhanishvili,F
-Glynn Watson,G
-Grady Eifert,F
-Grant Hazle,F
-Harrison Hookfin,F
-Hunt Conroy,G
-Ignas Brazdeikis,F
-Isaac Copeland,F
-Isaiah Livers,F
-Isaiah Moss,G
-Isaiah Roby,F
-Isaiah Washington,G
-Issa Thiam,F
-Ivan Bender,F
-Jack Hoiberg,G
-Jaedon Ledee,F
-Jake Forrester,F
-Jalen Smith,F
-Jamari Wheeler,G
-James Palmer,G
-Jarvis Omersa,F
-Joe Wieskamp,G
-Joey Downes,G
-Joey Lane,G
-John Harrar,F
-Johnny Jager,G
-Johnny Trueblood,G
-Jon Teske,C
-Jordan Ash,G
-Jordan Bohannon,G
-Jordan Murphy,F
-Jordan Poole,G
-Josh Reaves,G
-Joshua Langford,G
-Joshua Tomaic,F
-Justin Ahrens,F
-Justin Costello,G
-Justin Smith,F
-Juwan Morgan,F
-Kaleb Wesson,F
-Kenny Goins,F
-Keyshawn Woods,G
-Khalilerson,G
-Kipper Nichols,F
-Kobe King,G
-Kyle Ahrens,G
-Kyle King,F
-Kyle Mccloskey,G
-Kyle Young,F
-Lamar Stevens,F
-Luka Garza,F
-Luke Wilson,G
-Luther Muhammad,G
-Maishe Dailey,G
-Mamadou Doucoure,F
-Marcus Bingham,F
-Matt Haarms,C
-Matt Mcquaid,G
-Matz Stockman,C
-Michael Baer,F
-Michael Ballard,G
-Michael Hurt,F
-Mike Watkins,F
-Miller Kopp,F
-Montez Mathis,G
-Musa Jallow,G
-Myles Dread,G
-Myles Johnson,C
-Myreon Jones,G
-Nana Akenten,G
-Nate Reuvers,F
-Nicholas Baer,F
-Nick Ward,F
-Nicolas Hobbs,G
-Nojel Eastern,G
-Pete Nance,F
-Peter Kiss,G
-Quentin Taylor,G
-Race Thompson,F
-Rasir Bolton,G
-Reese Mona,G
-Ricky Lindo,F
-Rico Ozunaharrison,G
-Riley Till,F
-Rob Phinisee,G
-Romeo Langford,G
-Ron Harper,F
-Ryan Cline,G
-Ryan Greer,G
-Ryan Kriener,F
-Ryan Taylor,G
-Samba Kane,C
-Samson Oladimeji,G
-Sasha Stefanovic,G
-Serrel Smith,G
-Shaq Carter,F
-Shaquille Doorson,C
-Tai Strickland,G
-Tanner Borchardt,F
-Taylor Nussbaum,G
-Tevian Jones,G
-Thomas Allen,G
-Thomas Kithier,F
-Thor Thorbjarnarson,G
-Tino Malnati,G
-Tommy Luce,G
-Trace Ramsey,F
-Travis Valmon,G
-Trent Buttrick,F
-Trent Frazier,G
-Trevion Williams,F
-Trevor Anderson,G
-Tyler Cook,F
-Tyler Underwood,G
-Vic Law,F
-Vijay Blackmon,G
-Walt Mcgrory,G
-Will Clark,F
-Xavier Tillman,F
-Zach Griffith,F
-Zach Mcroberts,G
-Zavier Simpson,G
+Player,Name,Position,Team
+AARON.FALZON,Aaron Falzon,F,Northwestern
+AARON.HENRY,Aaron Henry,F,Michigan St.
+AARON.JORDAN,Aaron Jordan,G,Illinois
+AARON.WHEELER,Aaron Wheeler,F,Purdue
+AARON.WIGGINS,Aaron Wiggins,G,Maryland
+ADONIS DE LA.ROSA,Adonis De La Rosa,C,Illinois
+ADONIS.DE.LA.ROSA,Adonis De La Rosa,C,Illinois
+ADRIEN.NUNEZ,Adrien Nunez,G,Michigan
+AJ.TURNER,AJ Turner,F,Northwestern
+ALAN.GRIFFIN,Alan Griffin,G,Illinois
+ALEEM.FORD,Aleem Ford,F,Wisconsin
+ALJAMI.DURHAM,Aljami Durham,G,Indiana
+AMIR.COFFEY,Amir Coffey,G,Minnesota
+AMIR.HARRIS,Amir Harris,G,Nebraska
+ANDRE.WESSON,Andre Wesson,F,Ohio St.
+ANDRES.FELIZ,Andres Feliz,G,Illinois
+ANDREW.TERRELL,Andrew Terrell,G,Maryland
+ANTHONY.COWAN,Anthony Cowan,G,Maryland
+ANTHONY.GAINES,Anthony Gaines,G,Northwestern
+AUSTIN.ASH,Austin Ash,G,Iowa
+AUSTIN.DAVIS,Austin Davis,F,Michigan
+AYO.DOSUNMU,Ayo Dosunmu,G,Illinois
+BARRET.BENSON,Barret Benson,C,Northwestern
+BRAD.DAVISON,Brad Davison,G,Wisconsin
+BRADEN.BURKE,Braden Burke,F,Michigan St.
+BRADY.HEIMAN,Brady Heiman,F,Nebraska
+BRADY.RUDRUD,Brady Rudrud,G,Minnesota
+BRANDON.JOHNS JR,Brandon Johns Jr,F,Michigan
+BRANDON.JOHNS.JR,Brandon Johns Jr,F,Michigan
+BREVIN.PRITZL,Brevin Pritzl,G,Wisconsin
+BROCK.STULL,Brock Stull,G,Minnesota
+BROCK.WASHINGTON,Brock Washington,G,Michigan St.
+BRUNO.FERNANDO,Bruno Fernando,F,Maryland
+CALEB.MCCONNELL,Caleb McConnell,G,Rutgers
+CARSEN.EDWARDS,Carsen Edwards,G,Purdue
+CASSIUS.WINSTON,Cassius Winston,G,Michigan St.
+CHARLES.MATTHEWS,Charles Matthews,G,Michigan
+CHARLES.THOMAS,Charles Thomas IV,F,Wisconsin
+CHARLES.THOMAS IV,Charles Thomas IV,F,Wisconsin
+CHARLES.THOMAS.IV,Charles Thomas IV,F,Wisconsin
+CHARLIE.HALL,Charlie Hall,F,Northwestern
+CJ.BAIRD,CJ Baird,F,Michigan
+CJ.FREDRICK,CJ Frederick,G,Iowa
+CJ.JACKSON,CJ Jackson,G,Ohio St.
+CLIFTON.MOORE,Clifton Moore,F,Indiana
+COLIN.CASTLETON,Colin Castleton,F,Michigan
+CONNER.GEORGE,Conner George,G,Michigan St.
+CONNOR.MCCAFFERY,Connor Mccaffery,G,Iowa
+CORDELL.PEMSL,Cordell Pemsl,F,Iowa
+DAMEZI.ANDERSON,Damezi Anderson,F,Indiana
+DAMONTE.WILLIAMS,Damonte Williams,G,Illinois
+DANIEL.OTURU,Daniel Oturu,C,Minnesota
+DANIIL.KASATKIN,Daniil Kasatkin,G,Penn St.
+DANNY.HUMMER,Danny Hummer,G,Ohio St.
+DARRYL.MORSELL,Darryl Morsell,G,Maryland
+DAVID.DEJULIUS,David DeJulius,G,Michigan
+DEIVIS.ZEMGULIS,Deivis Zemgulis,F,Penn St.
+DERERK.PARDON,Dererk Pardon,C,Northwestern
+DERON.DAVIS,Deron Davis,F,Indiana
+DEVONTE.GREEN,Devonte Green,G,Indiana
+DMITRIK.TRICE,D'Mitrik Trice,G,Wisconsin
+DREW.CAYCE,Drew Cayce,G,Illinois
+DUANE.WASHINGTON JR,Duane Washington Jr,G,Ohio St.
+DUANE.WASHINGTON.JR,Duane Washington Jr,G,Ohio St.
+DUPREE.MCBRAYER,Dupree McBrayer,G,Minnesota
+ELI.BROOKS,Eli Brooks,G,Michigan
+ERIC.AYALA,Eric Ayala,G,Maryland
+ERIC.CURRY,Eric Curry,F,Minnesota
+ERIC.HUNTER JR,Eric Hunter Jr,G,Purdue
+ERIC.HUNTER.JR,Eric Hunter Jr,G,Purdue
+ETHAN.HAPP,Ethan Happ,F,Wisconsin
+EUGENE.OMORUYI,Eugene Omoruyi,F,Rutgers
+EVAN.BOUDREAUX,Evan Boudreaux,F,Purdue
+EVAN.FITZNER,Evan Fitzner,F,Indiana
+FOSTER.LOYER,Foster Loyer,G,Michigan St.
+GABE.BROWN,Gabe Brown,F,Michigan St.
+GABE.KALSCHEUR,Gabe Kalscheur,G,Minnesota
+GEO.BAKER,Geo Baker,G,Rutgers
+GIORGI.BEZHANISHVILI,Giorgi Bezhanishvili,F,Illinois
+GLYNN WATSON JR.,Glynn Watson Jr,G,Nebraska
+GLYNN.WATSON,Glynn Watson Jr,G,Nebraska
+GLYNN.WATSON JR,Glynn Watson Jr,G,Nebraska
+GLYNN.WATSON.JR,Glynn Watson Jr,G,Nebraska
+GRADY.EIFERT,Grady Eifert,F,Purdue
+GRANT.HAZLE,Grant Hazle,F,Penn St.
+HARRISON.HOOKFIN,Harrison Hookfin,F,Ohio St.
+HUNT.CONROY,Conroy Hunt,G,Minnesota
+IGNAS.BRAZDEIKIS,Ignas Brazdeikis,F,Michigan
+ISAAC COPELAND JR.,Isaac Copeland Jr,F,Nebraska
+ISAAC.COPELAND,Isaac Copeland Jr,F,Nebraska
+ISAAC.COPELAND JR,Isaac Copeland Jr,F,Nebraska
+ISAIAH.LIVERS,Isaiah Livers,F,Michigan
+ISAIAH.MOSS,Isaiah Moss,G,Iowa
+ISAIAH.ROBY,Isaiah Roby,F,Nebraska
+ISAIAH.WASHINGTON,Isaiah Washington,G,Minnesota
+ISSA.THIAM,Issa Thiam,F,Rutgers
+IVAN.BENDER,Ivan Bender,F,Maryland
+JACK.HOIBERG,Jack Hoiberg,G,Michigan St.
+JAEDON.LEDEE,Jaedon LeDee,F,Ohio St.
+JAKE.FORRESTER,Jake Forrester,F,Indiana
+JALEN.SMITH,Jalen Smith,F,Maryland
+JAMARI.WHEELER,Jamari Wheeler,G,Penn St.
+JAMES PALMER JR.,James Palmer Jr,G,Nebraska
+JAMES.PALMER,James Palmer Jr,G,Nebraska
+JAMES.PALMER JR,James Palmer Jr,G,Nebraska
+JARVIS.OMERSA,Jarvis Omersa,F,Minnesota
+JOE.WIESKAMP,Joe Wieskamp,G,Iowa
+JOEY.DOWNES,Joey Downes,G,Rutgers
+JOEY.LANE,Joey Lane,G,Ohio St.
+JOHN.HARRAR,John Harrar,F,Penn St.
+JOHNNY.JAGER,Johnny Jager,G,Indiana
+JOHNNY.TRUEBLOOD,Johnny Trueblood,G,Nebraska
+JON.TESKE,Jon Teske,C,Michigan
+JORDAN.ASH,Jordan Ash,G,Northwestern
+JORDAN.BOHANNON,Jordan Bohannon,G,Iowa
+JORDAN.MURPHY,Jordan Murphy,F,Minnesota
+JORDAN.POOLE,Jordan Poole,G,Michigan
+JOSH.REAVES,Josh Reaves,G,Penn St.
+JOSHUA.LANGFORD,Joshua Langford,G,Michigan St.
+JOSHUA.TOMAIC,Joshua Tomaic,F,Maryland
+JR.BINGHAM,Marcus Bingham Jr,F,Michigan St.
+JUSTIN.AHRENS,Justin Ahrens,F,Ohio St.
+JUSTIN.COSTELLO,Justin Costello,G,Nebraska
+JUSTIN.SMITH,Justin Smith,F,Indiana
+JUWAN.MORGAN,Juwan Morgan,F,Indiana
+KALEB.WESSON,Kaleb Wesson,F,Ohio St.
+KENNY.GOINS,Kenny Goins,F,Michigan St.
+KEYSHAWN.WOODS,Keyshawn Woods,G,Ohio St.
+KHALIL.IVERSON,Khalil Iverson,F,Wisconsin
+KIPPER.NICHOLS,Kipper Nichols,F,Illinois
+KOBE.KING,Kobe King,G,Wisconsin
+KYLE.AHRENS,Kyle Ahrens,G,Michigan St.
+KYLE.KING,Kyle King,F,Purdue
+KYLE.MCCLOSKEY,Kyle McCloskey,G,Penn St.
+KYLE.YOUNG,Kyle Young,F,Ohio St.
+LAMAR.STEVENS,Lamar Stevens,F,Penn St.
+LUKA.GARZA,Luka Garza,F,Iowa
+LUKE.WILSON,Luke Wilson,G,Michigan
+LUTHER.MUHAMMAD,Luther Muhammad,G,Ohio St.
+MAISHE.DAILEY,Maishe Dailey,G,Iowa
+MAMADOU.DOUCOURE,Mamadou Doucoure,F,Rutgers
+MARCUS BINGHAM JR.,Marcus Bingham Jr,F,Michigan St.
+MARCUS BINGHAM.JR,Marcus Bingham Jr,F,Michigan St.
+MARCUS.BINGHAM JR,Marcus Bingham Jr,F,Michigan St.
+MARCUS.BINGHAM.JR,Marcus Bingham Jr,F,Michigan St.
+MATT.HAARMS,Matt Haarms,C,Purdue
+MATT.MCQUAID,Matt McQuaid,G,Michigan St.
+MATZ.STOCKMAN,Matz Stockman,C,Minnesota
+MICHAEL.BAER,Michael Baer,F,Iowa
+MICHAEL.BALLARD,Michael Ballard,G,Wisconsin
+MICHAEL.HURT,Michael Hurt,F,Minnesota
+MIKE.WATKINS,Mike Watkins,F,Penn St.
+MILLER.KOPP,Miller Kopp,F,Northwestern
+MONTEZ.MATHIS,Montez Mathis,G,Rutgers
+MUSA.JALLOW,Musa Jallow,G,Ohio St.
+MYLES.DREAD,Myles Dread,G,Penn St.
+MYLES.JOHNSON,Myles Johnson,C,Rutgers
+MYREON.JONES,Myreon Jones,G,Penn St.
+NANA.AKENTEN,Nana Akenten,G,Nebraska
+NATE.REUVERS,Nate Reuvers,F,Wisconsin
+NICHOLAS.BAER,Nicholas Baer,F,Iowa
+NICK.WARD,Nick Ward,F,Michigan St.
+NICOLAS.HOBBS,Nicolas Hobbs,G,Iowa
+NOJEL.EASTERN,Nojel Eastern,G,Purdue
+PETE.NANCE,Pete Nance,F,Northwestern
+PETER.KISS,Peter Kiss,G,Rutgers
+QUENTIN.TAYLOR,Quentin Taylor,G,Indiana
+RACE.THOMPSON,Race Thompson,F,Indiana
+RASIR.BOLTON,Rasir Bolton,G,Penn St.
+REESE.MONA,Reese Mona,G,Maryland
+RICKY LINDO JR.,Ricky Lindo Jr,F,Maryland
+RICKY.LINDO,Ricky Lindo Jr,F,Maryland
+RICKY.LINDO JR,Ricky Lindo Jr,F,Maryland
+RICKY.LINDO.JR,Ricky Lindo Jr,F,Maryland
+RICO.OZUNAHARRISON,Rico Ozuna-Harrison,G,Michigan
+RILEY.TILL,Riley Till,F,Iowa
+ROB.PHINISEE,Rob Phinisee,G,Indiana
+ROMEO.LANGFORD,Romeo Langford,G,Indiana
+RON HARPER JR.,Ron Harper Jr,F,Rutgers
+RON.HARPER,Ron Harper Jr,F,Rutgers
+RON.HARPER.JR,Ron Harper Jr,F,Rutgers
+RYAN.CLINE,Ryan Cline,G,Purdue
+RYAN.GREER,Ryan Greer,G,Northwestern
+RYAN.KRIENER,Ryan Kriener,F,Iowa
+RYAN.TAYLOR,Ryan Taylor,G,Northwestern
+SAMBA.KANE,Samba Kane,C,Illinois
+SAMSON.OLADIMEJI,Samson Oladimeji,G,Illinois
+SASHA.STEFANOVIC,Sasha Stefanovic,G,Purdue
+SERREL SMITH JR.,Serrel Smith Jr,G,Maryland
+SERREL.SMITH,Serrel Smith Jr,G,Maryland
+SERREL.SMITH JR,Serrel Smith Jr,G,Maryland
+SERREL.SMITH.JR,Serrel Smith Jr,G,Maryland
+SHAQ.CARTER,Shaq Carter,F,Rutgers
+SHAQUILLE.DOORSON,Shaquille Doorson,C,Rutgers
+TAI.STRICKLAND,Tai Strickland,G,Wisconsin
+TANNER.BORCHARDT,Tanner Borchardt,F,Nebraska
+TAYLOR.NUSSBAUM,Taylor Nussbaum,G,Penn St.
+TEVIAN.JONES,Tevian Jones,G,Illinois
+THOMAS.ALLEN,Thomas Allen,G,Nebraska
+THOMAS.KITHIER,Thomas Kithier,F,Michigan St.
+THOR.THORBJARNARSON,Thorir Thorbjarnarson,G,Nebraska
+THORIR.THORBJARNARSON,Thorir Thorbjarnarson,G,Nebraska
+TINO.MALNATI,Tino Malnati,G,Northwestern
+TOMMY.LUCE,Tommy Luce,G,Purdue
+TRACE.RAMSEY,Trace Ramsey,F,Maryland
+TRAVIS.VALMON,Travis Valmon,G,Maryland
+TRENT.BUTTRICK,Trent Buttrick,F,Penn St.
+TRENT.FRAZIER,Trent Frazier,G,Illinois
+TREVION.WILLIAMS,Trevion Williams,F,Purdue
+TREVOR.ANDERSON,Trevor Anderson,G,Wisconsin
+TYLER.COOK,Tyler Cook,F,Iowa
+TYLER.UNDERWOOD,Tyler Underwood,G,Illinois
+VIC.LAW,Vic Law,F,Northwestern
+VIJAY.BLACKMON,Vijay Blackmon,G,Indiana
+WALT.MCGRORY,Walt McGrory,G,Wisconsin
+WILL.CLARK,Will Clark,F,Maryland
+XAVIER.TILLMAN,Xavier Tillman,F,Michigan St.
+ZACH.GRIFFITH,Zach Griffith,F,Illinois
+ZACH.MCROBERTS,Zach McRoberts,G,Indiana
+ZAVIER.SIMPSON,Zavier Simpson,G,Michigan
